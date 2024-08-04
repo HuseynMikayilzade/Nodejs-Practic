@@ -1,0 +1,24 @@
+Ad: a
+Soyad: s
+Telefon: 12
+
+Ad: huseyn
+Soyad: mikayilzade
+Telefon: 123456
+
+Ad: a
+Soyad: sd
+Telefon: 232
+
+Ad: ds
+Soyad: q
+Telefon: 233
+
+Ad: z
+Soyad: z
+Telefon: 23
+
+Ad: ee
+Soyad: ww
+Telefon: 234
+
